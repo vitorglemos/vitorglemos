@@ -31,11 +31,8 @@ Data science continues to evolve as one of the most promising careers around the
   <img src="icons/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
   <img src="icons/docker-icon.svg" alt="docker" width="40" height="40"/> 
   <img src="icons/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="icons/scikit-learn.png" alt="scikit-learn" width="40" height="40"/>
+  <img src="icons/scikit-learn.png" alt="scikit-learn" width="50" height="40"/>
   <img src="icons/nvidia.svg" alt="nvidia-cuda" width="40" height="40"/> 
   <img src="icons/python-icon.svg" alt="python" width="40" height="40"/> 
-
-  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
  
