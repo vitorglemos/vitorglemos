@@ -24,9 +24,6 @@ Data science continues to evolve as one of the most promising careers around the
  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitorglemos&show_icons=true" alt="vitorglemos"/></p>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/svg/910/910412.svg" alt="AI" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/svg/2345/2345454.svg" alt="cyber security" width="40" height="40"/>
-  <img src="https://image.flaticon.com/icons/svg/2452/2452659.svg" alt="data science" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
   <img src="icons/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
   <img src="icons/docker-icon.svg" alt="docker" width="40" height="40"/> 
