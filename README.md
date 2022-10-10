@@ -64,15 +64,15 @@ Specialties: Data Science Researcher, Deep Learning, Software Developer, eScienc
     <img alt="Kaggle" src="https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=google-chrome&logoColor=white"></a>
 </p>
 
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitorglemos&show_icons=true" alt="vitorglemos"/></p>
+ <p align="center"><img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorglemos&theme=white"></p>
+ 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
-  <img src="icons/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
-  <img src="icons/docker-icon.svg" alt="docker" width="40" height="40"/> 
-  <img src="icons/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="icons/scikit-learn.png" alt="scikit-learn" width="50" height="40"/>
-  <img src="icons/nvidia.svg" alt="nvidia-cuda" width="40" height="40"/> 
-  <img src="icons/python-icon.svg" alt="python" width="40" height="40"/> 
+ <img height="80px" src="./icons/kagglelabel.png" align="center" alt="GitHub Readme Stats" />
+ <img height="100px" src="./icons/kagglestatus.png" align="center" alt="GitHub Readme Stats" />
+  <br/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vitorgamalemos/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vitorgamalemos/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vitorgamalemos/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vitorgamalemos/discussion/light" />
 </p>
  
