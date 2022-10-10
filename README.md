@@ -4,7 +4,16 @@
 
 ### About me
 
-Data science continues to evolve as one of the most promising careers around the world. It is one of the areas that I'm most passionate about, as it allows me to understand how things work and how it can help improve people's quality of life. Today, I work with Machine Learning applied in Cybersecurity. In my free time, I dedicate myself to participate in Data Science competitions at Kaggle, applying machine learning to real problems.
+MSc. Vitor Gama Lemos studied Computer Systems at Universidade Federal Fluminense (UFF), in Niterói, Brazil, from 2014 to 2017. He made his Master of Science (MSc) in Computer Science at Universidade Federal Fluminense (UFF), working as a researcher in the areas of Data Science and Big Data. In addition, He has a specialization in Statistics at Universidade Norte do Paraná (UNOPAR). He is studying for a Lato Sensu postgraduate degree in Information Security (MBA) and a postgraduate degree in Privacy and Protection of Personal Data at Faculdade Descomplica (from 2022 to 2023).
+
+Vitor Gama Lemos serves as a NASA citizen scientist on The Sungrazer Project, Project comet program, based in the Solar Physics Department of the U.S. Naval Research Laboratory, Washington D.C. The Sungrazer Project is a NASA-funded program that enables the discovery and reporting of previously unknown comets in the ESA/NASA SOHO and NASA STEREO satellite instrument fields of view. He also has important preliminary discoveries together with IASC/NASA projects as Asteroid Hunter, such as P21uZz3 (2022), P21uUo8 (2022), P21v19O (2022), P21wcXn (2022) and P21wEwU(2022).
+
+Currently, He is a Data Scientist PSafe and his research interests are Artificial Intelligence applications in Malware Detection and CyberSecurity, Scripts Provenance, and Computer Vision. 
+
+Where can you find me?
+You can send a message to me; Add me on LinkedIn or Facebook; if you're lucky, You will meet me at any technology event. Look it up on Google!
+
+Specialties: Data Science Researcher, Deep Learning, Software Developer, eScience, Information Security Analyst, High-performance Computing, Big Data, Query Optimization.
 
  <p align="center">
    <a href="https://twitter.com/vitorglemos_" target="_blank" > 
