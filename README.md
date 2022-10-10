@@ -32,6 +32,8 @@
 <img alt="ShellScript" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img alt="Nasa" src="https://img.shields.io/badge/nasa-%23E03C31.svg?&style=for-the-badge&logo=nasa&logoColor=white"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white" />
+<img alt="Github" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ### About me
