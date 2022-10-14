@@ -1,6 +1,6 @@
 ### Hi there, `I'm Vitor` :octocat:
 
-<p align="center"><img src="https://phoneky.co.uk/thumbs/screensavers/down/music/mortalkomb_smbv2bfl.gif"/></p>
+<p align="center"><img height="500px" width="500px" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/></p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Data+Scientist+Research;Machine+Learning+Developer;NASA+Citizen+Science"></a>
